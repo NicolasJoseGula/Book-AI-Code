@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn
+openai
+python-dotenv
+
+# For 3.1
+transformers 
+torch
+# For frontend
+streamlit
+# For audio
+soundfile
