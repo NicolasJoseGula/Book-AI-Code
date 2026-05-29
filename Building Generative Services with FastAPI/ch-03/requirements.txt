@@ -10,3 +10,5 @@ torch
 streamlit
 # For audio
 soundfile
+av
+diffusers
